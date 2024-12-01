@@ -33,6 +33,6 @@ I'm a passionate JavaScript developer exploring the exciting world of web develo
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/aboroho/albabacademy" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aboroho&repo=albabacademy&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
-<div width="100%" align="center"><a href="https://github.com/aboroho/Typing-practice" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aboroho&repo=albabacademy&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/aboroho/Typing-practice" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aboroho&repo=Typing-practice&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br />
 
