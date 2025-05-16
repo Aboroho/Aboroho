@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rifat Sarker
 ====================================================================================================================================
 
-JavaScript Developer
+Full Stack Developer
 --------------------
 
-I'm a passionate JavaScript developer exploring the exciting world of web development. With hands-on experience building projects using React, Next.js, and Tailwind CSS, I enjoy creating intuitive and responsive user interfaces. I'm also learning to strengthen my skills in back-end development and type-safe coding with TypeScript, which has broadened my understanding of building full-stack applications. While I'm still growing as a developer, I'm eager to tackle new challenges, learn from experienced professionals, and contribute to meaningful projects.
+I'm a passionate JavaScript developer exploring the exciting world of web development. With hands-on experience building projects using PHP, Laravel, React, Next.js,and Tailwind CSS,  I enjoy creating intuitive and responsive user interfaces. I'm also learning to strengthen my skills in back-end development and type-safe coding with TypeScript, which has broadened my understanding of building full-stack applications. While I'm still growing as a developer, I'm eager to tackle new challenges, learn from experienced professionals, and contribute to meaningful projects.
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [dev.rifat.sarker@gmail.com](mailto:dev.rifat.sarker@gmail.com)
